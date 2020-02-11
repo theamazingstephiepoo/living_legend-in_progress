@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Amazing Stephanie: A Living Legend In Progress
 
 You can use the [editor on GitHub](https://github.com/theamazingstephiepoo/living_legend-in_progress/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
